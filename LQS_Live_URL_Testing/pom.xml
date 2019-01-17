@@ -2,32 +2,15 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>Maruti_Hyperlocal_TrueValue</groupId>
-  <artifactId>Hyperlocal_TrueValue</artifactId>
+  <groupId>LQS_LIVE</groupId>
+  <artifactId>LQS_LIVE_TESTING</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>Hyperlocal_TrueValue</name>
+  <name>LIVE_LQS</name>
   <url>http://maven.apache.org</url>
   
-  
-  
-   
-  <build>
-  	<plugins>
-		<plugin>
-				<groupId>org.apache.maven.plugins</groupId>
-				<artifactId>maven-surefire-plugin</artifactId>
-				<version>2.18.1</version>
-				<configuration>
-					<suiteXmlFiles>
-						<!-- TestNG suite XML files -->
-						<suiteXmlFile>C:\Users\AGL\git\Hyperlocal_PASCO\Maruti_Hyperlocal_01\src\main\resources\testng.xml</suiteXmlFile>
-					</suiteXmlFiles>
-				</configuration>
-			</plugin>
-		</plugins>
-	</build>
+
   
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
