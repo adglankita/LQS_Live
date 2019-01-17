@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-01-17T07:26:28Z" name="Testing HyperLocal TrueValue forms" finished-at="2019-01-17T07:26:34Z" duration-ms="5991">
+    <groups>
+    </groups>
+    <test started-at="2019-01-17T07:26:28Z" name="Testing LQS Live Website" finished-at="2019-01-17T07:26:34Z" duration-ms="5991">
+      <class name="com.test.LQS.urlLaunch">
+        <test-method signature="test_url()[pri:0, instance:com.test.LQS.urlLaunch@5f16132a]" started-at="2019-01-17T07:26:28Z" name="test_url" finished-at="2019-01-17T07:26:34Z" duration-ms="5960" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_url -->
+      </class> <!-- com.test.LQS.urlLaunch -->
+    </test> <!-- Testing LQS Live Website -->
+  </suite> <!-- Testing HyperLocal TrueValue forms -->
+</testng-results>
