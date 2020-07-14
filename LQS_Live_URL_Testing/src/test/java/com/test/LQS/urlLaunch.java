@@ -20,7 +20,7 @@ public class urlLaunch {
 		
 		driver.manage().window().maximize();
 		
-		driver.manage().timeouts().implicitlyWait(90, TimeUnit.SECONDS);
+		driver.manage().timeouts().implicitlyWait(120, TimeUnit.SECONDS);
 		
 		driver.close();
 	}
